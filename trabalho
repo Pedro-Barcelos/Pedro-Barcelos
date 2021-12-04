@@ -1,0 +1,16 @@
+<table border="1">
+  <colgroup>
+    <col span="2" style="background-color:red">
+    <col style="background-color:yellow">
+  </colgroup>
+  <tr>
+    <th>Nome</th>
+    <th>Idade</th>
+    <th>Profissao</th>
+  </tr>
+  <tr>
+    <td>Pedro</td>
+    <td>18</td>
+    <td>estudante</td>
+  </tr>
+</table>
